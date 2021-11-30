@@ -95,5 +95,5 @@ Specify the initial length of a flex item.The order value must be a pixels(px), 
 ### 13.order
 The first flex item in the code does not have to appear as the first item in the layout.The order value must be a number, default value is 0.
 ## III.Shorthand for Flexbox in CSS
-flew: flew-grow, flew-shrink,flew-basis
+flew: flew-grow, flew-shrink,flew-basis.
 flew-flow: setting both the flex-direction and flex-wrap properties

@@ -54,16 +54,24 @@ It is the attribute for each flex-item. If u have set the attribute justify_cont
     ![space-around image](align_content(space_around).png)
 - #### flex-start
     flex-item start from top
+    
     ![flex-start image](align_content(flex-start).png)
+    
 - #### flex-end 
     flex-item start form bottom 
+    
     ![flex-end image](align_content(flex-end).png)
+    
 - #### center 
     flex-item is center of top and bottom
+    
     ![center image](align_content(center).png)
+    
 - #### stretch
     Stretching the flex lines to take up the remaining space (default value)
+    
     ![stretch image](align_content(stretch).png)
+    
 ### 8.align-items
 **Align** the flex-item upon the cross axis. If u want use, it doesn't has the attribute **flex-wrap:wrap**
 - #### center
@@ -77,7 +85,9 @@ It is the attribute for each flex-item. If u have set the attribute justify_cont
 > The image is the same, u can read to find the point different between 2 attribute :)
 - #### baseline 
     aligns the flex items such as their baselines aligns
+    
     ![baseline image](align_itemst(baseline).png)
+    
 ### 9.align-self 
 Same the align-content but it has set ever flex-item
 - #### flex-start
